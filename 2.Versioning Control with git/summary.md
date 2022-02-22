@@ -31,7 +31,7 @@ untuk mengupload file/folder ke github dapat menggunakan GIT
 ### 1. Membuat Branch Network
 Pada task ini, membuat branch baru dan berikut hasil screenshot dari insights=>network
 
-![Network](./Screenshot/Tugas1.jpg)
-![Network](./Screenshot/vscode.jpg)
+![Network](./Screenshot/Tugas1.JPG)
+![Network](./Screenshot/vscode.JPG)
 
 
