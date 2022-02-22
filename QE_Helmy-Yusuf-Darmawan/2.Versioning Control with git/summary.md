@@ -26,7 +26,7 @@ Untuk mengoptimalkan kolborasi tim dibutuhkan beberapa Branch agar kolaborasi da
 ### 1. Membuat Branch Network
 Pada task ini, membuat branch baru dan berikut hasil screenshot dari insights=>network
 
-![Network](./Schreenshoot/Tugas1.JPG)
-![Network](./Schreenshoot/vscode.JPG)
+![Network](./Schreenshoot/Tugas1.jpg)
+
 
 
