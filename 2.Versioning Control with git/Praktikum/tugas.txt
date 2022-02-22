@@ -1,4 +1,0 @@
-Melakukan perubahan branch Master 
-Melakukan perubahan pada branch Development
-Melakukan Perubahan Pada fitur1
-Melakukan Perubahan Pada fitur2
